@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`match snapshot with striked text 1`] = `
+<li
+  className="strike"
+  data-testid="list-item"
+>
+  <span
+    data-testid="list-span"
+    onClick={[Function]}
+  >
+    Test
+  </span>
+</li>
+`;
+
+exports[`match snapshot without striked text 1`] = `
+<li
+  className=""
+  data-testid="list-item"
+>
+  <span
+    data-testid="list-span"
+    onClick={[Function]}
+  >
+    Test
+  </span>
+</li>
+`;

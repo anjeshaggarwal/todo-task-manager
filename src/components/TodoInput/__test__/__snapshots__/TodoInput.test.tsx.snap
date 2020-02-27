@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`match snapshot 1`] = `
+<form>
+  <input
+    data-testid="input-text"
+    placeholder="Enter your Task"
+    type="text"
+  />
+    
+  <input
+    data-testid="input-submit"
+    onClick={[Function]}
+    type="submit"
+    value="Add"
+  />
+</form>
+`;

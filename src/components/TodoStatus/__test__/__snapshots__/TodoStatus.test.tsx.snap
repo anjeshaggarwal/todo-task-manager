@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`match snapshot 1`] = `
+<b
+  data-testid="todo-status"
+  id="todo-status"
+>
+  Total todos remaining: 3 out of 9.
+</b>
+`;

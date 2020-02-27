@@ -1,0 +1,7 @@
+#todo-table {
+    display: inline-block;
+    background-color: bisque;
+    padding: 5px 20px 5px 5px;
+    overflow: auto;
+    max-height: calc(100vh - 100px);
+}

@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`match snapshot 1`] = `
+<div
+  id="todo-table"
+>
+  <ul
+    data-testid="task-list"
+  >
+    <li
+      className=""
+      data-testid="list-item"
+    >
+      <span
+        data-testid="list-span"
+        onClick={[Function]}
+      >
+        Task1
+      </span>
+    </li>
+    <li
+      className="strike"
+      data-testid="list-item"
+    >
+      <span
+        data-testid="list-span"
+        onClick={[Function]}
+      >
+        Task2
+      </span>
+    </li>
+  </ul>
+</div>
+`;
